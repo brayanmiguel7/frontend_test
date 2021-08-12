@@ -1,0 +1,30 @@
+#vertical-list ul{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+#vertical-list ul li{
+
+    padding: .5rem 0rem;
+    width: 200px;
+
+}
+
+#vertical-list ul li:hover{
+
+    background-color: rgba(115, 187, 255, .3);
+    border-left: 2px solid rgb(95, 151, 203);
+    cursor: pointer;
+
+}
+
+#vertical-list ul li a{
+
+    display: inline-block;
+    padding: 0px 8px;
+    width: 100%;
+
+}

@@ -1,0 +1,22 @@
+{
+    "Usuarios": [
+      {
+        "id_usuario": "1",
+        "us_nombre": "Hector Rodriguez",
+        "us_email": "hectorrodriguez@otp.com.co",
+        "us_pass": "123"
+      },
+      {
+        "id_usuario": "2",
+        "us_nombre": "Camila Gonzalez",
+        "us_email": "camilagonzalez@otp.com.co",
+        "us_pass": "1234"
+      },
+      {
+        "id_usuario": "3",
+        "us_nombre": "Pedro Perez",
+        "us_email": "pedroperez@otp.com.co",
+        "us_pass": "12345"
+      }
+    ]
+}
